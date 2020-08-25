@@ -20,11 +20,13 @@
         href="https://www.canada.ca/fr/sante-canada.html"
       >Canada Deptartment of Health</a>. This site should not be used for life saving information - instead, rather, a source for numbers and statistics.
     </main>
+    <br />
     <iframe
       src="https://experience.arcgis.com/experience/4ab8757241cc4d3fab81c8f86a501ce9"
       height="550"
       width="90%"
     ></iframe>
+    <br />
     <iframe
       src="https://ourworldindata.org/grapher/total-cases-covid-19?tab=map"
       width="90%"
